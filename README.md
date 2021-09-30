@@ -11,3 +11,6 @@ FCJ2020 is a collection of fingerprint images created by the contribution of the
 ### DB4: 4th Impression of four fingers of 50 Persons (50x4 = 200)
 ### DB5: 5th Impression of four fingers of 50 Persons (50x4 = 200)
 ### DB6: 6th Impression of four fingers of 50 Persons (50x4 = 200)
+
+## Citation
+Md. Mijanur Rahman. (2020) "FCJ2020 Fingerprint Database", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. https://github.com/mijancse/FCJ2020_Fingerprint_Database 
