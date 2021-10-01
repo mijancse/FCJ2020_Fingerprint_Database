@@ -13,7 +13,7 @@ FCJ2020 is a collection of fingerprint images created by the contribution of the
 ### DB6: 6th Impression of four fingers of 50 Persons (50x4 = 200)
 
 ### DB3_Thinned
-The 'DB3_Thinned' contains the processed images (thinned fingerprint images) of DB3 dataset (3rd Impression of fingerprints)
+The 'DB3_Thinned' folder contains the processed images (thinned fingerprint images) of DB3 dataset (3rd Impression of fingerprints)
 
 ## Contact
 Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
