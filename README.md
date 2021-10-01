@@ -18,6 +18,9 @@ The 'DB3_Thinned' folder contains the processed images (thinned fingerprint imag
 ### DB102_Thinned
 The 'DB102_Thinned' folder contains the processed images (thinned fingerprint images) of 6 impressions of 17 fingerprints from different students (17x6=102)
 
+## Fingerprint Acquisition Tools & Accuracy Analysis Programs
+This folder contains 'Fingerprint Acquisition Documentation & Tools' and Matlab Codes for 'Fingerprint Accuracy Analysis - 50 Student's Fingerprints'
+
 ## Contact
 Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University, Trishal, Mymensingh, Bangladesh. Email: mijan@jkkniu.edu.bd
 
