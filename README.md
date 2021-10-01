@@ -1,7 +1,7 @@
 # FCJ2020_Fingerprint_Database
 
 ## FCJ2020 Fingerprint Database
-FCJ2020 is a collection of fingerprint images created by the contribution of the students of the Computer Science and Engineering department in Jatiya Kabi Kazi Nazrul Islam University, Bangladesh. All the fingerprint images were compiled and analyzed by the principal investigator, Prof. Dr. Md. Mijanur Rahman.
+FCJ2020 is a collection of fingerprint images created by the contribution of the students of the Computer Science and Engineering department in Jatiya Kabi Kazi Nazrul Islam University, Bangladesh, in 2019-2020. All the fingerprint images were compiled and analyzed by the principal investigator, Prof. Dr. Md. Mijanur Rahman.
 
 ## Database
 ### Size of database: 1200
