@@ -24,4 +24,4 @@ Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Ja
 
 
 ## Citation
-Md. Mijanur Rahman. (2020) "FCJ2020 Fingerprint Database", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. https://github.com/mijancse/FCJ2020_Fingerprint_Database
+Md. Mijanur Rahman and Tanjarul Islam Mishu, "FCJ2020 Fingerprint Database", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. Github Repository, 2020. https://github.com/mijancse/FCJ2020_Fingerprint_Database 
