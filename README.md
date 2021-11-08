@@ -11,6 +11,7 @@ FCJ2020 is a collection of fingerprint images created by the contribution of the
 ### DB4: 4th Impression of four fingers of 50 Persons (50x4 = 200)
 ### DB5: 5th Impression of four fingers of 50 Persons (50x4 = 200)
 ### DB6: 6th Impression of four fingers of 50 Persons (50x4 = 200)
+### Use the database ONLY for research and education purposes.
 
 ## Fingerprint Acquisition Tools & Accuracy Analysis Programs
 This folder contains 'Fingerprint Acquisition Documentation & Tools' and Matlab Codes for 'Fingerprint Accuracy Analysis - 50 Student's Fingerprints'
