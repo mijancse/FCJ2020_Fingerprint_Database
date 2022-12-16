@@ -21,3 +21,5 @@ Prof. Dr. Md. Mijanur Rahman, Department of Computer Science and Engineering, Ja
 
 ## Citation
 Md. Mijanur Rahman and Tanjarul Islam Mishu, "FCJ2020 Fingerprint Database", Department of Computer Science and Engineering, Jatiya Kabi Kazi Nazrul Islam University. Github Repository, 2020. https://github.com/mijancse/FCJ2020_Fingerprint_Database 
+
+Rahman, Md Mijanur, and Tanjarul Islam Mishu. "FCJ2020: Generating Fingerprint Templates with Image Processing and Verification." 2021 International Conference on Computing Sciences (ICCS). IEEE, 2021.
